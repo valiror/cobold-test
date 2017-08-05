@@ -80,7 +80,7 @@ background: #428bca;
 .material-box-three h4{}
 .material-box-two h4{}
 .material-box-one h4{}
-.material-box-three h5{  font-size: 18px;padding-left: 15px;}
+.material-box-three h5{  font-size: 18px;padding-left: 15px;font-family: 'Lato', sans-serif italic;}
 .material-box-two h5{  font-size: 18px;padding-left: 15px;}
 .material-box-one h5{  font-size: 18px;padding-left: 15px;}
 .box-label{padding-top: 20px ;}
